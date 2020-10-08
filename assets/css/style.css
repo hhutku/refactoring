@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
     font-size: 16px;
 }
-
+ /* giving background color, color, font family and padding to the header of the page */
 .header-wrapper {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +24,7 @@ body {
 .header-text-seo {
     color: #d9dcd6;
 }
-
+/* adjusting the typology of the option links and putting them right in the   */
 #header-options {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,7 +47,7 @@ body {
     text-decoration: none;
 }
 
-
+/* putting the background and adjusting the size of options-container*/
 .options-container {
     height: 800px;
     width: 100%;
@@ -57,13 +57,13 @@ body {
     background-position: center;
 }
 
-
+/* putting the images left with some margin */
 .options-photo-left {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
-
+/* putting the images right with some margin */
 .options-photo-right {
     float: right;
     margin-left: 25px;
@@ -79,6 +79,7 @@ body {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* setting the properties of images in options */
 .options-image{
     margin-bottom: 20px;
     padding: 50px;
@@ -115,7 +116,7 @@ body {
     margin: 10px auto;
     max-width: 150px;  
 }
-
+/* setting the position of the footer and arranging the text place and font-family */ 
 .footer {
     padding: 30px;
     clear: both;

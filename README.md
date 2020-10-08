@@ -3,7 +3,9 @@
 The goal of this project is to create a codebase that follows accessibility standart so that the website of the marketing agency named "HORISEON"  is  optimized for searh engines.
 
 Therefore in this project:
+
 	- Code-Refactoring (improving the internal structure of an existing program's source code) was done.
+	
 	-All links were checked and corrected
 	
 	-All HTML and CSS  elements designed semantically

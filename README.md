@@ -4,16 +4,19 @@ The goal of this project is to create a codebase that follows accessibility stan
 
 Therefore in this project:
 
-	- Code-Refactoring (improving the internal structure of an existing program's source code) was done.
+	##Code-Refactoring (improving the internal structure of an existing program's source code) was done.
 	
-	-All links were checked and corrected
+	##All links were checked and corrected
 	
-	-All HTML and CSS  elements designed semantically
+	##All HTML and CSS  elements designed semantically
 	
-	-All elements were put in logical structure which is independent of styling and positioning
+	##All elements were put in logical structure which is independent of styling and positioning
 	
-	-All heading attributes were put in sequencial order for the easiness of maintenance.
+	##All heading attributes were put in sequencial order for the easiness of maintenance.
 	
-	-Alt ttributes were done for all images so that people with disabilities can use the website easily
+	##Alt ttributes were done for all images so that people with disabilities can use the website easily
 	
-	-Changed the title to make it conceise and descriptive
+	##Changed the title to make it conceise and descriptive
+
+💡This is the [link of refactored page]( https://hhutku.github.io/refactoring/)
+

@@ -20,3 +20,9 @@ Therefore in this project:
 
 💡This is the [link of refactored page]( https://hhutku.github.io/refactoring/)
 
+💡Images before refactoring 
+
+(./assets/images/image1.png)
+(./assets/images/image2.png)
+(./assets/images/image3.png)
+

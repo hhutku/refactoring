@@ -22,7 +22,7 @@ Therefore in this project:
 
 💡Images before refactoring 💡
 
-[image1] (https://github.com/hhutku/refactoring/blob/master/assets/images/image1.png)
-(https://github.com/hhutku/refactoring/blob/master/assets/images/image2.png)
-(https://github.com/hhutku/refactoring/blob/master/assets/images/image3.png)
+![image1] (https://github.com/hhutku/refactoring/blob/master/assets/images/image1.png)
+![image2](https://github.com/hhutku/refactoring/blob/master/assets/images/image2.png)
+![image3](https://github.com/hhutku/refactoring/blob/master/assets/images/image3.png)
 
